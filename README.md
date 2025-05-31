@@ -80,5 +80,5 @@ Business Data Analyst
 │   └── fishery_dashboard.pbix (coming soon)
 
 # License
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 This project is for educational and professional portfolio use. All mock data is generated and does not represent real business records.
