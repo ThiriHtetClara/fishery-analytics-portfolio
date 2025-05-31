@@ -31,7 +31,7 @@ This project analyzes fish catch operations, auction pricing, vessel efficiency,
 - Top buyers by total auction spend
 - Daily catch-to-auction performance
 
-All queries are included in `sql/fishery_analysis.sql`.
+All queries are included in `sql/fishery_analytics_queries_insights.sql`.
 
 # Jupyter Notebook
 
