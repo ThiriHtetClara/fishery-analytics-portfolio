@@ -51,7 +51,7 @@ Power BI is used:
 
 # Tools Used
 - MySQL
-- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Excel (for CSV prep)
 
@@ -72,12 +72,12 @@ Business Data Analyst
 │   ├── vessel_performance.csv
 │   └── fish_types.csv
 ├── /sql
-│   └── fishery_analysis.sql
-├── /notebooks
+│   └── fishery_analytics_database.sql
+│   └── fishery_analytics_queries_insights.sql
+├── /Jupyter
 │   └── fishery_analysis_notebook.ipynb
 ├── /powerbi
-│   └── fishery_dashboard.pbix (optional)
-└── er_diagram.png
+│   └── fishery_dashboard.pbix (coming soon)
 
 # License
 This project is licensed under the MIT License — see the LICENSE file for details.
