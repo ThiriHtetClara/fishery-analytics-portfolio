@@ -52,7 +52,7 @@ The notebook `notebooks/fishery_analysis_notebook.ipynb` includes:
 
 ---
 
-# Power BI Dashboard *coming soon*
+# Power BI Dashboard "coming soon"
 
 Power BI is used:
 - Connect to MySQL or CSVs
