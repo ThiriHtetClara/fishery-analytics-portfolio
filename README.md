@@ -2,8 +2,6 @@
 
 A data analytics portfolio project based on a simulated fishery business. This project demonstrates real-world skills in data cleaning, SQL analysis, Python-based EDA, and dashboard creation using Power BI. The data and workflows reflect responsibilities from the role of a Fishery Business Data Analyst.
 
----
-
 # Project Overview
 This project analyzes fish catch operations, auction pricing, vessel efficiency, and buyer performance using realistic mock data. It simulates daily operations of a small-scale commercial fishery.
 
@@ -12,8 +10,6 @@ This project analyzes fish catch operations, auction pricing, vessel efficiency,
 - Compare auction prices against market prices
 - Measure vessel performance efficiency
 - Highlight top buyers by purchase volume
-
----
 
 # 📂 Dataset Structure
 
@@ -26,8 +22,6 @@ This project analyzes fish catch operations, auction pricing, vessel efficiency,
 - `VesselPerformance` – Operational efficiency metrics
 - `FishTypes` – Lookup table for fish species
 
----
-
 # SQL Insights
 
 # Queries Included:
@@ -39,8 +33,6 @@ This project analyzes fish catch operations, auction pricing, vessel efficiency,
 
 All queries are included in `sql/fishery_analysis.sql`.
 
----
-
 # Jupyter Notebook
 
 The notebook `notebooks/fishery_analysis_notebook.ipynb` includes:
@@ -50,8 +42,6 @@ The notebook `notebooks/fishery_analysis_notebook.ipynb` includes:
 - Vessel efficiency metrics
 - Top buyer bar chart
 
----
-
 # Power BI Dashboard "coming soon"
 
 Power BI is used:
@@ -59,21 +49,15 @@ Power BI is used:
 - Pages: Catch Trends, Auction Insights, Vessel KPIs, Buyer Rankings
 - Export as `.pbix` and screenshot for presentation
 
----
-
 # Tools Used
 - MySQL
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Excel (for CSV prep)
 
----
-
 # Author
 Thiri Htet (Clara) 
 Business Data Analyst  
-
----
 
 # Repository Structure
 /Fishery-Analytics-Portfolio
