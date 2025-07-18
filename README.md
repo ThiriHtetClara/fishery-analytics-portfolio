@@ -61,23 +61,23 @@ Business Data Analyst
 
 # Repository Structure
 /Fishery-Analytics-Portfolio
-├── README.md
-├── LICENSE
-├── /datasets
-│   ├── catch_logs.csv
-│   ├── auction_prices.csv
-│   ├── market_prices.csv
-│   ├── vessels.csv
-│   ├── buyers.csv
-│   ├── vessel_performance.csv
-│   └── fish_types.csv
-├── /sql
-│   └── fishery_analytics_database.sql
-│   └── fishery_analytics_queries_insights.sql
-├── /Jupyter
-│   └── fishery_analysis_notebook.ipynb
-├── /powerbi
-│   └── fishery_dashboard.pbix (coming soon)
+README.md
+LICENSE
+/datasets
+ catch_logs.csv
+ auction_prices.csv
+ market_prices.csv
+ vessels.csv
+ buyers.csv
+ vessel_performance.csv
+ fish_types.csv
+/sql
+ fishery_analytics_database.sql
+ fishery_analytics_queries_insights.sql
+/Jupyter
+ fishery_analysis_notebook.ipynb
+/powerbi
+ fishery_dashboard.pbix (coming soon)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
