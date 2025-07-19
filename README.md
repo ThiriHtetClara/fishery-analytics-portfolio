@@ -1,4 +1,4 @@
-# fishery-analytics-portfolio
+# fishery-data-analytics-portfolio
 
 A data analytics portfolio project based on a simulated fishery business. This project demonstrates real-world skills in data cleaning, SQL analysis, Python-based EDA, and dashboard creation using Power BI. The data and workflows reflect responsibilities from the role of a Fishery Business Data Analyst.
 
